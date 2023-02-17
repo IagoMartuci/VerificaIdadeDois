@@ -4,7 +4,6 @@ import javax.swing.*;
 
 public class Idade {
     public static void main(String[] args){
-
         var nomeUm = JOptionPane.showInputDialog("Digite o nome 1: ");
         var idadeUm = Integer.parseInt(JOptionPane.showInputDialog("Digite a idade 1: "));
         var nomeDois = JOptionPane.showInputDialog("Digite o nome 2: ");
